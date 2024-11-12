@@ -1,4 +1,4 @@
-# Terminal linux Homework №1
+# Linux terminal HW_1
 
 1) Посмотреть где я
 
