@@ -32,7 +32,7 @@
 
         -press button 'i' and write text
         Hello.
-        My name is Maxim.
+        My name is Stepan.
         This is my first homework in the author's courses by Vadim Kzentsov.
 11) Сохранить и выйти.
 
